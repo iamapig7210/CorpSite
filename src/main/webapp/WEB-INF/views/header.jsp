@@ -55,6 +55,9 @@
                                         <li>
                                             <a href="#">New Location 1</a>
                                         </li>
+                                        <li>
+                                            <a href="#">New Location 2</a>
+                                        </li>
                                     </ul>
                                 </li>
                             </ul>
