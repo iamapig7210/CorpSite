@@ -53,7 +53,7 @@
                                             <a href="#">Secret Mountain</a>
                                         </li>
                                         <li>
-                                            <a href="#">New Location</a>
+                                            <a href="#">New Location 1</a>
                                         </li>
                                     </ul>
                                 </li>
